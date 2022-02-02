@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lukasz_Bednarek_lab4</string>
+    <string name="textView_main_title">Switchy Recycler be Luke Bednarek</string>
+    <string name="switchy_recycler_by_luke_bednarek">Switchy Recycler by Luke Bednarek</string>
+    <string name="button">Button</string>
+    <string name="_1">1</string>
+    <string name="d">D:</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+</resources>
